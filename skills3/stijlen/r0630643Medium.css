@@ -1,0 +1,16 @@
+
+#primair {
+    display: none
+}
+#gaming {
+    display: contents
+}
+#luxe {
+    display: none
+}
+#container {
+    background-color: gray;
+}
+#image {
+    background-image:url(wallpaper-2793460_900x200.jpg)
+}
